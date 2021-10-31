@@ -5,4 +5,4 @@ To Run:
 1. Install node js
 2. npm i
 3. node index.js
-# pfizer-notify
+# pfizer-notify-Covaccine
